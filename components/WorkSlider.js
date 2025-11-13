@@ -27,8 +27,8 @@ const workSlides = {
           link: 'https://github.com/uvraviz007/OneVote.git',
         },
         {
-          title: 'FinTrack',
-          path: '/fin_track.jpeg',
+          title: 'fin-track',
+          path: '/fin_track2.png',
           link: 'https://github.com/uvraviz007/fintrack.git',
         },
       ],
